@@ -1,7 +1,7 @@
 # SPOTIFY & THE EMERGENCE OF AI
 ## Origin: Frustration meets Creativity
 
-<p>The genesis of Spotify is rooted in a bold vision by Daniel Ek and Martin Lorentzon to revolutionize the music industry. Frustrated by rampant piracy and inspired by the potential of digital distribution, they set out to create a platform that would provide instant access to a vast library of music legally and affordably. Their aim was to deliver an unparalleled user experience that would surpass the convenience of illegal downloads, thus transforming the way the world listens to music.<b>
+The genesis of Spotify is rooted in a bold vision by Daniel Ek and Martin Lorentzon to revolutionize the music industry. Frustrated by rampant piracy and inspired by the potential of digital distribution, they set out to create a platform that would provide instant access to a vast library of music legally and affordably. Their aim was to deliver an unparalleled user experience that would surpass the convenience of illegal downloads, thus transforming the way the world listens to music.
 
 ![spotify!](https://media.licdn.com/dms/image/C5612AQHuI14S9LDQWw/article-inline_image-shrink_1500_2232/0/1640368868854?e=1721865600&v=beta&t=rrzC0HEBzPDNHQU9sQzS5f4d1JkD4ZSfpfR3n6n-zU0)
 
