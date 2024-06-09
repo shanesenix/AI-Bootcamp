@@ -43,7 +43,7 @@ Spotify's journey has been fueled by substantial funding from a diverse array of
 
 
 ## Innovation Transforming the Industry
-<p> Over the past 5-10 years, significant trends and innovations have transformed the music streaming industry:<b>
+Over the past 5-10 years, significant trends and innovations have transformed the music streaming industry:
 
 1. **Shift to Streaming**: A seismic shift from physical and digital downloads to streaming as the dominant mode of music consumption.
 2. **Personalization**: The increasing use of AI and machine learning to provide deeply personalized user experiences.
